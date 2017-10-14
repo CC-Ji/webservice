@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="webservcie Maven Webapp"
+  name="webservice Maven Webapp"
   id="myeclipse.1503219886025"
-  context-root="/webservcie"
+  context-root="/webservice"
   j2ee-spec="6.0"
-  archive="webservcie Maven Webapp.war">
+  archive="webservice Maven Webapp.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
   </attributes>
